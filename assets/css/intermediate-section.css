@@ -1,0 +1,15 @@
+.flex-container{
+  display: flex;
+  flex-direction: column;
+}
+.intermediate-section{
+  background-color: var(--secondary-color);
+  padding: 20px;
+}
+.container-paper{
+  display: flex;
+  flex-direction: column;
+}
+.container-paper-text{
+  font-size: 13px
+}
